@@ -1,0 +1,5 @@
+Hakan Aktan,1,8
+Emel Birlik,2,12
+selim Kiraz,3,12
+Kazim Solmaz,2,13
+Pelin Poyraz,6,9
