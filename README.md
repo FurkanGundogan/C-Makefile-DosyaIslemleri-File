@@ -5,3 +5,5 @@ Makefile ile cmd üzerinden çalıştırılan ve bir randevu sistemini kontrol e
 gcc gerektirir.
 
 3rd Semester C Programming Course Project
+
+Furkan Gündoğan aka furu
